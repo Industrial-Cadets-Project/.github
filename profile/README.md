@@ -1,7 +1,7 @@
 # smart-bin :recycle:
 An AI powered self-sorting smart recycling bin.
 "Smart Bin" for short.
-<img src="readme-imgs/green_wheelie_bin_eyes.png" height="200" width="200" align="right" />
+<img src="green_wheelie_bin_eyes.png" height="200" width="200" align="right" />
 
 
 ## Teammates :handshake:
