@@ -6,9 +6,9 @@ An AI powered self-sorting smart recycling bin.
 
 
 ## Teammates :handshake:
-**Programmers:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kenneth Oliver ([@KennyOliver](https://github.com/KennyOliver)), Lillie Clarke ([@LillieClarke](https://github.com/LillieClarke)), Jack Markwick ([@JackMarkwick](https://github.com/JackMarkwick))
+**Programmers:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kenneth Oliver ([@KennyOliver](https://github.com/KennyOliver)), &nbsp; Lillie Clarke ([@LillieClarke](https://github.com/LillieClarke)), &nbsp; Jack Markwick ([@JackMarkwick](https://github.com/JackMarkwick))
 
-**Other teammates:** &nbsp;&nbsp; Rona French, George Young
+**Other teammates:** &nbsp;&nbsp; Rona French, &nbsp; George Young
 
 <!-- 
 | Name           | Role       | GitHub Account                                   | School Email                |
